@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\.vscode\\argv.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\htmlcrawlerr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\htmlcrawlerr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|c:\\users\\user\\source\\repos\\htmlcrawlerr\\htmlcrawlerr\\content.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2DFFFCD-A0C0-4751-ADA8-FEFE2B284B2B}|HtmlCrawlerr\\HtmlCrawlerr.csproj|solutionrelative:htmlcrawlerr\\content.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\a\u05EA\u05DB\u05E0\u05D5\u05EA\\sql\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05D9\u05E1\u05D5\u05D9\u05D9\u05DD\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "argv.json",
+              "DocumentMoniker": "C:\\Users\\user\\.vscode\\argv.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\.vscode\\argv.json",
+              "ToolTip": "C:\\Users\\user\\.vscode\\argv.json",
+              "RelativeToolTip": "..\\..\\..\\.vscode\\argv.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T20:25:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\HtmlHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlHelper.cs",
+              "RelativeToolTip": "HtmlCrawlerr\\HtmlHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:59:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlCrawlerr.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlCrawlerr.csproj",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\HtmlCrawlerr.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlCrawlerr.csproj",
+              "RelativeToolTip": "HtmlCrawlerr\\HtmlCrawlerr.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T18:12:33.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "content.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\content.txt",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\content.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\content.txt",
+              "RelativeToolTip": "HtmlCrawlerr\\content.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-26T18:10:32.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\a\u05EA\u05DB\u05E0\u05D5\u05EA\\sql\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05D9\u05E1\u05D5\u05D9\u05D9\u05DD\\.vs\\VSWorkspaceState.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\a\u05EA\u05DB\u05E0\u05D5\u05EA\\sql\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05D9\u05E1\u05D5\u05D9\u05D9\u05DD\\.vs\\VSWorkspaceState.json",
+              "ToolTip": "C:\\a\u05EA\u05DB\u05E0\u05D5\u05EA\\sql\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05D9\u05E1\u05D5\u05D9\u05D9\u05DD\\.vs\\VSWorkspaceState.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\a\u05EA\u05DB\u05E0\u05D5\u05EA\\sql\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E0\u05D9\u05E1\u05D5\u05D9\u05D9\u05DD\\.vs\\VSWorkspaceState.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T14:53:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\Program.cs",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\Program.cs",
+              "RelativeToolTip": "HtmlCrawlerr\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:15:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlElementExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlElementExtensions.cs",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\HtmlElementExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlElementExtensions.cs",
+              "RelativeToolTip": "HtmlCrawlerr\\HtmlElementExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:03:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\Selector.cs",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\Selector.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\Selector.cs",
+              "RelativeToolTip": "HtmlCrawlerr\\Selector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:00:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "HtmlCrawlerr\\HtmlElement.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HtmlCrawlerr\\HtmlCrawlerr\\HtmlElement.cs",
+              "RelativeToolTip": "HtmlCrawlerr\\HtmlElement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:59:39.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

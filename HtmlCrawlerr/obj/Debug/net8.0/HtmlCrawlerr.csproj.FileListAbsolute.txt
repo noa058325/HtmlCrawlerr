@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\HtmlCrawlerr.exe
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\HtmlCrawlerr.deps.json
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\HtmlCrawlerr.runtimeconfig.json
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\HtmlCrawlerr.dll
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\HtmlCrawlerr.pdb
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.AssemblyInfo.cs
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.dll
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\refint\HtmlCrawlerr.dll
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.pdb
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\HtmlCrawlerr.genruntimeconfig.cache
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\obj\Debug\net8.0\ref\HtmlCrawlerr.dll
+C:\Users\user\source\repos\HtmlCrawlerr\HtmlCrawlerr\bin\Debug\net8.0\content.txt
